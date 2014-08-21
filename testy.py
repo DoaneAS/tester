@@ -2,6 +2,6 @@ import os
 
 now = os.getcwd()
 
-text = 'hello'
+text = 'hello, this is a branchy branch'
 
-print text
+print text, now
