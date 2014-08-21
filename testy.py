@@ -2,6 +2,6 @@ import os
 
 now = os.getcwd()
 
-text = 'hello'
+text = 'hello, this is the master'
 
-print text
+print text, now
